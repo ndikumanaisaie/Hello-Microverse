@@ -8,3 +8,8 @@ body {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   background-color: blanchedalmond;
 }
+
+p {
+  background-color: brown;
+  border: 2px solid #fff000;
+}
